@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 :briefcase: https://www.linkedin.com/in/gabriel-castro-a4b776111/
 
-<!-- ![](https://komarev.com/ghpvc/?username=gabriel1997castro&color=blueviolet) -->
+![](https://komarev.com/ghpvc/?username=gabriel1997castro&color=blueviolet)
