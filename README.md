@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💼 Currently working at everis|NTTData
+👨‍💼 Currently working at NTTData
 
 :gear: Studying Mechatronics Engineering - University of Brasília
 
