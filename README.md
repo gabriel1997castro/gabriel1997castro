@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💼 Currently working at NTTData
+👨‍💼 Currently working at NTTDATA
 
 :gear: Studying Mechatronics Engineering - University of Brasília
 
