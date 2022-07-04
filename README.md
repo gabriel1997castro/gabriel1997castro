@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-👨‍💼 Currently working at NTTDATA
+👨‍💼 Currently working at Autocomplete
 
-:gear: Studying Mechatronics Engineering - University of Brasília
+:gear: Studying Control and Automation Engineering - University of Brasília
 
 :zap: Learning about backend and improving my frontend skills
 
