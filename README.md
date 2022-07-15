@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 * Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3
 * Robotics &rarr; C/C++, ROS;
-* Deep Learning &rarr; Pytorch, Octave
 * Interested in Machine Learning
 * Some facts about me &rarr; I love to playing guitar, singing and see series
 
