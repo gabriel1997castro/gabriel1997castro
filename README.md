@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 :zap: Learning about backend and improving my frontend skills
 
-* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3
+* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library, Storybook;
 * Robotics &rarr; C/C++, ROS;
 * Interested in Machine Learning
 * Some facts about me &rarr; I love to playing guitar, singing and see series
