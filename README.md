@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 
 :briefcase: https://www.linkedin.com/in/gabriel-castro-a4b776111/
 
+You can check my resume on link: https://drive.google.com/file/d/1NTJjUhXWh_6WLX9Q-tsLzHOrRll_jPBk/view?usp=sharing
+
 ![](https://komarev.com/ghpvc/?username=gabriel1997castro&color=blueviolet)
