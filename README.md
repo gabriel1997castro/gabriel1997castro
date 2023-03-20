@@ -2,7 +2,7 @@
 ### I'm Gabriel Castro
 
 
-👨‍💼 Currently working at Autocomplete
+👨‍💼 Currently working at Showseeker
 
 :gear: Studying Control and Automation Engineering - University of Brasília
 
