@@ -4,14 +4,14 @@
 
 👨‍💼 Currently working at Showseeker
 
-:gear: Studying Control and Automation Engineering - University of Brasília
+:gear: Control and Automation Engineer - University of Brasília
 
 :zap: Learning about backend and improving my frontend skills
 
-* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library, Storybook;
+* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library;
 * Worked in college with Robotics &rarr; C/C++, ROS;
 * Interested in Machine Learning
-* Some facts about me &rarr; I love to playing guitar, singing and see series
+* Some facts about me &rarr; I love to play guitar, sing and watch series
 
 
 😄 Feel free to contact me:
