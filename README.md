@@ -10,7 +10,7 @@
 
 * Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library;
 * Worked in college with Robotics &rarr; C/C++, ROS;
-* Interested in Machine Learning
+* Interested in Machine Learning, Backend with Node.js, Next.js
 * Some facts about me &rarr; I love to play guitar, sing and watch series
 
 
@@ -18,7 +18,9 @@
 
 :email: gabriel1997.castro@gmail.com
 
-:briefcase: https://www.linkedin.com/in/gabriel-castro-a4b776111/
+:briefcase: https://www.linkedin.com/in/gabriel-1997-castro/
+
+🔗 Website: https://gabrielgcastro.com
 
 You can check my resume on link: https://drive.google.com/file/d/1NTJjUhXWh_6WLX9Q-tsLzHOrRll_jPBk/view?usp=sharing
 
