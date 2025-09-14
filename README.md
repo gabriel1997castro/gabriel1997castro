@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### I'm Gabriel Castro
 
-
-👨‍💼 Currently working at Showseeker
-
 :gear: Control and Automation Engineer - University of Brasília
 
 :zap: Learning about backend and improving my frontend skills
