@@ -7,7 +7,7 @@
 
 * Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library;
 * Worked in college with Robotics &rarr; C/C++, ROS;
-* Interested in Machine Learning, Backend with Node.js, Next.js
+* Interested in Machine Learning, AI, Backend with Node.js, Next.js
 * Some facts about me &rarr; I love to play guitar, sing and watch series
 
 
