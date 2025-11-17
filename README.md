@@ -5,9 +5,9 @@
 
 :zap: Learning about backend and improving my frontend skills
 
-* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, Cypress, Jest, testing library;
+* Front End Development &rarr; ReactJS, React-Native, Javascript, HTML5, CSS3, TailwindCSS, E2E tests with Cypress, Jest, testing library;
+* Interested in Machine Learning, AI, Backend with Node.js, Next.js, N8N automations;
 * Worked in college with Robotics &rarr; C/C++, ROS;
-* Interested in Machine Learning, AI, Backend with Node.js, Next.js
 * Some facts about me &rarr; I love to play guitar, sing and watch series
 
 
